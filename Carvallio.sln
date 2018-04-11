@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carvallio", "Carvallio\Carv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carvallio.Tests", "Carvallio.Tests\Carvallio.Tests.csproj", "{6598FAA1-D758-441B-BA71-F794D2DBBEF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carvallio.Web.UI", "Carvallio.Web.UI\Carvallio.Web.UI.csproj", "{45E31EF3-F306-418E-A290-41D2436CBBA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carvallio.Web.UI.Tests", "Carvallio.Web.UI.Tests\Carvallio.Web.UI.Tests.csproj", "{BF9C4D7B-FDD4-494F-8F4D-D8B9125649CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{6598FAA1-D758-441B-BA71-F794D2DBBEF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6598FAA1-D758-441B-BA71-F794D2DBBEF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6598FAA1-D758-441B-BA71-F794D2DBBEF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45E31EF3-F306-418E-A290-41D2436CBBA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E31EF3-F306-418E-A290-41D2436CBBA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E31EF3-F306-418E-A290-41D2436CBBA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E31EF3-F306-418E-A290-41D2436CBBA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF9C4D7B-FDD4-494F-8F4D-D8B9125649CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF9C4D7B-FDD4-494F-8F4D-D8B9125649CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF9C4D7B-FDD4-494F-8F4D-D8B9125649CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF9C4D7B-FDD4-494F-8F4D-D8B9125649CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
